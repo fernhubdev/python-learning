@@ -6,7 +6,7 @@ with open("notes.txt", "w", encoding="utf-8") as file:
     file.write("การจัดการไฟล์\n")
     file.write("เขียนและอ่านไฟล์สำเร็จแล้ว!\n")
 
-print("✅ สร้างไฟล์ notes.txt สำเร็จ")
+print(" สร้างไฟล์ notes.txt สำเร็จ")
 
 print("----------")
 
